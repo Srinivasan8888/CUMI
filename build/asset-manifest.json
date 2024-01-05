@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed9ea44d.css",
+    "main.js": "/static/js/main.8b82d939.js",
+    "static/js/498.47873ef4.chunk.js": "/static/js/498.47873ef4.chunk.js",
+    "static/js/703.5679b06a.chunk.js": "/static/js/703.5679b06a.chunk.js",
+    "static/js/598.cb88fed7.chunk.js": "/static/js/598.cb88fed7.chunk.js",
+    "static/js/787.4a3a7f51.chunk.js": "/static/js/787.4a3a7f51.chunk.js",
+    "static/media/cumi_login.png": "/static/media/cumi_login.a5640c5b35eec392711d.png",
+    "static/media/xyma.png": "/static/media/xyma.4e2ffa7fd8e87d8d9843.png",
+    "static/media/reports-bg1.png": "/static/media/reports-bg1.eaeef281e60123a7299b.png",
+    "static/media/CUMI0908.png": "/static/media/CUMI0908.6b0bc7ff14acd953b1d3.png",
+    "static/media/cumi_final.png": "/static/media/cumi_final.7d3c5785856d5cd8b814.png",
+    "index.html": "/index.html",
+    "main.ed9ea44d.css.map": "/static/css/main.ed9ea44d.css.map",
+    "main.8b82d939.js.map": "/static/js/main.8b82d939.js.map",
+    "498.47873ef4.chunk.js.map": "/static/js/498.47873ef4.chunk.js.map",
+    "703.5679b06a.chunk.js.map": "/static/js/703.5679b06a.chunk.js.map",
+    "598.cb88fed7.chunk.js.map": "/static/js/598.cb88fed7.chunk.js.map",
+    "787.4a3a7f51.chunk.js.map": "/static/js/787.4a3a7f51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9ea44d.css",
+    "static/js/main.8b82d939.js"
+  ]
+}

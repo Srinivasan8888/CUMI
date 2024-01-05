@@ -1,0 +1,129 @@
+/*sidebar height*/
+@media (max-width: 2560px) {
+    .height {
+        height: 100%;
+    }
+}
+.dropdown{
+  margin:-29px -204px 0px 156px;
+}
+
+
+.red-bg {
+  background-color: red;
+}
+.orange-bg {
+  background-color: #ED7014;
+}
+.green-bg {
+  background-color: #1AC48B;
+}
+/*chart css*/
+.pipe-container {
+    display: flex;
+    background-color: #2d2d2d;
+    height: 300px;
+    border-radius:20px;
+    margin: 20px 20px 0px 20px; 
+    max-width: auto;
+    overflow-x: auto;
+  }
+  .pipe-section{
+    width: 200px;
+    height: 20px;
+    border: 2px solid #ffffff;
+    border-radius: 0px 0px 0px 0px;
+    margin: 10px 0px 0px 20px;
+  }
+
+  .first-pipe{
+    width: 20px;
+    height: 100px; 
+    margin: 10px 0px 0px -2px;
+  }
+
+  .first-pipe-sensor{
+    margin-top: 96px;
+    width: 40px;
+    height: 50px;
+    margin:96px 0px 0px -12px;
+    /* background-color: #D0D3D4; */
+  }
+   
+  .second-pipe {
+    width: 20px;
+    height: 100px; 
+    margin:156px 10px 0px -19px;
+    border-radius: 0px 0px 0px 20px;
+    position: relative;
+  }
+  .third-pipe{
+    width:150px;
+    margin:236px 0px 0px -10px;
+    border-radius: 0px 0px 0px 0px;
+    border-width: 2px 2px 2px 0px;
+  }
+  
+  .third-pipe-sensor{
+    width: 50px;
+    height: 40px;
+    margin:-12px 0px 0px 148px;
+    position: relative;
+    background-color: #D0D3D4;
+  }
+  .forth-pipe{
+  width: 300px;
+  margin: 236px 0px 0px 46px;
+  }
+  .forth-pipe-sensor{
+  width: 50px;
+  height: 40px;
+  margin: -12px 0px 0px 296px;
+  background-color: #D0D3D4;
+  }
+ 
+  .fifth-pipe{
+    width: 20px;
+    height: 100px;
+    margin: 128px 0px 0px 11px;
+  }
+  .fifth-pipe-sensor{
+    width: 50px;
+    height: 40px;
+    margin: -40px 0px 0px -18px;
+    background-color: #D0D3D4;
+    }
+
+    .sixth-pipe{
+      width: 130px;
+      height: 20px;
+      margin: 100px 0px 0px 12px;
+    }
+    .sixth-pipe-sensor{
+      width: 50px;
+      height: 40px;
+      margin: -12px 0px 0px 127px;
+      background-color: #D0D3D4;
+      }
+      .sevanth-pipe{
+        width: 20px;
+        height: 90px;
+        margin: 128px 0px 0px 12px;
+      }
+      .sevanth-pipe-sensor{
+        width: 50px;
+        height: 40px;
+        margin: 86px 0px 0px -15px;
+        background-color: #D0D3D4;
+        }
+
+  
+
+
+
+/*-------------- Hover Sensor------------ */
+.hovers:hover {
+  cursor: pointer;
+}
+
+
